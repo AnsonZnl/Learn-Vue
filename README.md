@@ -1,2 +1,2 @@
 # Learn-Vue
-学习Vue.js
+[Vue 官方文档](https://cn.vuejs.org/)
